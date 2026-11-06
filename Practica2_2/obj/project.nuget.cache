@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4eH2yXUOkTw=",
+  "success": true,
+  "projectFilePath": "/home/ikerfs/Escritorio/Acceso a Datos/Practica2_2/Practica2_2/Practica2_2.csproj",
+  "expectedPackageFiles": [
+    "/home/ikerfs/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.14/microsoft.aspnetcore.app.ref.10.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
